@@ -16,7 +16,6 @@
   font-size: 1em;
   color: rgb(190, 154, 136);
 }
-
 #divtimer {
   display: inline-block !important;
   line-height: 1;
@@ -24,9 +23,9 @@
   font-size: 40px;
 }
 
-
-
+.clock {
+  font-family: 'Covered By Your Grace', cursive !important;
+}
 body {
-  font-family: 'Covered By Your Grace', cursive;
   background-color: rgb(252, 251, 248);
 }
