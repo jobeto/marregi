@@ -8,6 +8,12 @@
     color: rgb(230, 135, 146) !important;
 }
 
+.content0 {
+    font-family: 'Fira Sans', normal;
+    font-size: x-large;
+    color: rgb(255, 0, 157) !important;
+}
+
 .content1 {
     font-family: 'Fira Sans', normal;
     font-size: medium;
@@ -28,5 +34,10 @@
     width: 100%;
     height: 200px;
     border: 0;
+}
+
+
+.button1 {
+    background-color: rgba(230, 135, 146, 0.2);
 }
 
