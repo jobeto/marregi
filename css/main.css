@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
-@import url(https://fonts.google.com/specimen/Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
 
 
 .title1 {
@@ -9,13 +9,19 @@
 }
 
 .content1 {
-    font-family: 'Dancing  Script', normal;
+    font-family: 'Fira Sans', normal;
     font-size: medium;
     color: rgb(178, 140, 79) !important;
 }
 
+.content2 {
+    font-family: 'Fira Sans', normal;
+    font-size: small;
+    color: rgb(190, 154, 136) !important;
+}
+
 .map-grid {
-    border: 2px solid #b38d4f;
+    border: 2px solid #be9988;
     padding: 1em;
 }
 .map-grid iframe {
